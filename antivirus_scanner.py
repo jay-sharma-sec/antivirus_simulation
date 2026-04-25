@@ -264,7 +264,6 @@ def main():
     """Main function to demonstrate the antivirus scanner."""
     print("=" * 60)
     print("Basic Antivirus Simulation (Signature Scanner)")
-    print("Educational Tool - For Learning Purposes Only")
     print("=" * 60)
     
     # Initialize scanner
